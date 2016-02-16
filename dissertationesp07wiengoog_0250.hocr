@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertationesp07wiengoog_0250.png"; bbox 0 0 3300 5059; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 122 1942 1469 2251">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 122 1910 1469 2251">
+     <span class='ocr_line' id='line_1_1' title="bbox 122 1942 1469 2084; baseline 0 -29"><span class='ocrx_word' id='word_1_1' title='bbox 122 1946 193 2058; x_wconf 73' lang='lat' dir='ltr'><strong>Do</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 227 1942 301 2058; x_wconf 78' lang='grc' dir='ltr'><strong>Μ.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 348 1943 511 2056; x_wconf 77' lang='lat' dir='ltr'>Tullii·</span> <span class='ocrx_word' id='word_1_4' title='bbox 553 1944 804 2059; x_wconf 73' lang='lat' dir='ltr'>Ciceronis</span> <span class='ocrx_word' id='word_1_5' title='bbox 837 1951 1121 2084; x_wconf 69' lang='lat' dir='ltr'>poetarum</span> <span class='ocrx_word' id='word_1_6' title='bbox 1174 1944 1469 2058; x_wconf 76' lang='lat' dir='ltr'><strong>Latinorum</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 711 2136 1040 2251; baseline 0.003 -1"><span class='ocrx_word' id='word_1_7' title='bbox 711 2136 895 2251; x_wconf 80' lang='lat' dir='ltr'>studiis</span> <span class='ocrx_word' id='word_1_8' title='bbox 1037 2225 1040 2230; x_wconf 87' lang='grc'>-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 717 2478 1147 2537">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 717 2478 1147 2537">
+     <span class='ocr_line' id='line_1_3' title="bbox 717 2478 1147 2537; baseline -0.002 0"><span class='ocrx_word' id='word_1_9' title='bbox 717 2481 878 2537; x_wconf 78' lang='lat' dir='ltr'>SCRIPSIT</span> <span class='ocrx_word' id='word_1_10' title='bbox 1020 2504 1022 2508; x_wconf 95' lang='lat'>·</span> <span class='ocrx_word' id='word_1_11' title='bbox 1145 2478 1147 2481; x_wconf 70' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 491 2739 1130 2863">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 491 2739 1130 2863">
+     <span class='ocr_line' id='line_1_4' title="bbox 491 2739 1130 2863; baseline 0.014 -57"><span class='ocrx_word' id='word_1_12' title='bbox 491 2803 493 2806; x_wconf 85' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 539 2742 833 2816; x_wconf 86' lang='lat' dir='ltr'>IOSEPHUS</span> <span class='ocrx_word' id='word_1_14' title='bbox 854 2742 1061 2863; x_wconf 53' lang='lat' dir='ltr'><strong>JKUBIK.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1128 2739 1130 2745; x_wconf 70' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1654 5059">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1654 5059">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1654 5059; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1654 5059; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
